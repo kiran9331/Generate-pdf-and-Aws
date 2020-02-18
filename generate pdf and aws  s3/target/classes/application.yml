@@ -1,0 +1,5 @@
+amazonProperties:
+  endpointUrl: <your-end-point-url> # your endpointurl
+  accessKey: <your-access-key> # your aws access key
+  secretKey: <your-secret-key> # your aws secret key
+  bucketName: <your-bucket-name> # your aws bucket name
